@@ -1,0 +1,256 @@
+{
+    "Men-Shirts": [
+      {
+        "id": 1,
+        "name": "DIOR OBLIQUE PIXEL SHORT-SLEEVED SHIRT",
+        "inventory": 20.0,
+        "price": 1650.0,
+        "size": "small",
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/a/t/1650394891_193C545A4751_C587_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 2,
+        "name": "DIOR OBLIQUE SHORT-SLEEVED SHIRT",
+        "inventory": 20.0,
+        "size": "small",
+        "price": 1400.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/D/9/1650394860_193C545A5231_C787_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 3,
+        "name": "DIOR AND JACK KEROUAC SHORT-SLEEVED SHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1300.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/8/6/1650394897_193C545A5586_C085_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 4,
+        "name": "DIOR AND JACK KEROUAC SHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1800.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/U/r/1650394955_013C501A5629_C087_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 5,
+        "name": "Dior shirt",
+        "inventory": 20,
+        "size": "small",
+        "price": 1500.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/K/m/1616611810_023M550AT099_C185_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 6,
+        "name": "DIOR OBLIQUE OVERSHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1400.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/K/m/1616611810_023M550AT099_C185_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 7,
+        "name": "OVERSHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1750.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/H/Q/1644248529_283D493AY510_C789_E01_ZHC.jpg?imwidth=870"
+      }
+    ],
+    "Men-Hoodies": [
+      {
+        "id": 1,
+        "name": "DIOR OBLIQUE SWEATER",
+        "inventory": 20,
+        "size": "small",
+        "price": 1700.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/m/0/1651851930_193M638AT393_C581_E11_GH.jpg?imwidth=430"
+      },
+      {
+        "id": 2,
+        "name": "DIOR OBLIQUE HOODED SWEATSHIRT, RELAXED FIT",
+        "inventory": 20,
+        "size": "Small",
+        "price": 1950.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/8/V/1600709058_113J631A0684_C020_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 3,
+        "name": "DIOR OBLIQUE HOODED SWEATSHIRT, RELAXED FIT",
+        "inventory": 20,
+        "size": "Small",
+        "price": 1950.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/H/p/1600709067_113J631A0684_C540_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 4,
+        "name": "'CD ICON' HOODED SWEATSHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1150.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/i/H/1604511903_113J698A0531_C989_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 5,
+        "name": "'CD ICON' HOODED SWEATSHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 1150.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/f/b/1604511903_113J698A0531_C888_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 6,
+        "name": "SWEATER WITH DIOR OBLIQUE INSERTS",
+        "inventory": 20,
+        "size": "small",
+        "price": 1300.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/O/Q/1600709055_113M638AT187_C585_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 7,
+        "name": "HOODED SWEATSHIRT",
+        "inventory": 20,
+        "size": "small",
+        "price": 2200.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/r/8/1650394880_113M221AT225_C581_E01_ZHC.jpg?imwidth=870"
+      }
+    ],
+    "Men-Jeans": [
+      {
+        "id": 1,
+        "name": "SLIM-FIT JEANS",
+        "inventory": 20,
+        "price": 1250.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/K/C/1650394928_193D011BY513_C520_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 2,
+        "name": "LONG SLIM-FIT JEANS",
+        "inventory": 20,
+        "price": 790.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/N/a/1624548205_193DS00A217X_C900_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 3,
+        "name": "SLIM LONG-FIT DIOR OBLIQUE JEANS",
+        "inventory": 20,
+        "price": 890.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/Q/D/1624548206_193DS00C226X_C580_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 4,
+        "name": "'CHRISTIAN DIOR ATELIER' LONG SLIM-FIT JEANS",
+        "inventory": 20,
+        "price": 1000.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/s/n/1634744229_213DS13AY505_C582_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 5,
+        "name": "'DIOR' SELVEDGE LONG SLIM-FIT JEANS",
+        "inventory": 20,
+        "price": 1000.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/U/t/1624548204_193D001AY978_C540_E01_ZHC.jpg?imwidth=870"
+      }
+    ],
+    "Men-Suits": [
+      {
+        "name": "TWO-BUTTON SUIT",
+        "inventory": 20.0,
+        "price": 3300.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/d/A/1626882404_633C720A3226_C542_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "name": "CLASSIC SUIT",
+        "inventory": 20.0,
+        "price": 3300.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/8/i/1565797283_633C720A1800_C901_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "name": "ADJUSTED-FIT SUIT",
+        "inventory": 20,
+        "price": 3300.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/W/X/1565797285_863C700A4218_C540_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "name": "ADJUSTED-FIT SUIT",
+        "inventory": 20,
+        "price": 2900.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/K/b/1591296302_863C700A4639_C900_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "name": "JACKET WITH BEE JEWEL",
+        "inventory": 20,
+        "price": 2800.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/Q/F/1589293335_013C213A3226_C900_E01_ZHC.jpg?imwidth=870"
+      }
+    ],
+    "Men-Glasses": [
+      {
+        "id": 1,
+        "name": "DIORBLACKSUIT A2U",
+        "inventory": 20,
+        "price": 790.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/E/w/1644248504_SUITA2UAT_F0B8_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 2,
+        "name": "DIORBLACKSUIT S10I",
+        "inventory": 20,
+        "price": 540.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/N/K/1650394930_SUTS10IXP_10P0_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 3,
+        "name": "DIORBLACKSUIT XL S1I",
+        "inventory": 20,
+        "price": 520.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/J/s/1644248519_STXLS1IXR_10A0_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 4,
+        "name": "DIORBLACKSUIT AU",
+        "inventory": 20,
+        "price": 450.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/v/e/1609783742_SUITAUR_F4A0_E01_ZHC.jpg?imwidth=870"
+      },
+      {
+        "id": 5,
+        "name": "DIORBLACKSUIT S10I",
+        "inventory": 20,
+        "price": 520.0,
+        "image": "https://media.dior.com/couture/ecommerce/media/catalog/product/x/R/1650394940_SUTS10IXM_20C0_E01_ZHC.jpg?imwidth=870"
+      }
+    ],
+    "Men-Fragrance": [
+      {
+        "name": "DIOR HOMME SPORT",
+        "inventory": 20,
+        "price": 115.0,
+        "image": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw64b5efc2/assets/Y0996476/Y0996476_C099600782_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+      },
+      {
+        "name": "DIOR HOMME",
+        "inventory": 20,
+        "price": 40.0,
+        "image": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwff40af08/assets/Y0996449/Y0996449_C099600449_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+      },
+      {
+        "name": "SAUVAGE ELIXIR",
+        "inventory": 20,
+        "price": 159.0,
+        "image": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw59f3c992/assets/Y0996460/Y0996460_C099600755_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+      },
+      {
+        "name": "SAUVAGE",
+        "inventory": 20,
+        "price": 104.0,
+        "image": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw112ff713/assets/Y0685240/Y0685240_F068524009_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+      },
+      {
+        "name": "DIOR HOMME",
+        "inventory": 20,
+        "price": 60.0,
+        "image": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwbcbbeb16/assets/Y0996159/Y0996159_C099600159_E01_ZHC.jpg?sw=870&sh=580&sm=fit&imwidth=870"
+      }
+    ]
+  }

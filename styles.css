@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .dior-logo {
+    width: 150px;
+    border-radius: 0%;
+    height: 150px;
+  }
+  .navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  nav {
+    text-align: right;
+    flex: 1;
+  }
+  nav ul {
+    list-style-type: none;
+    display: inline-block;
+  }
+  nav ul li {
+    margin-right: 20px;
+    display: inline-block;
+  }
+  a {
+    text-decoration: none;
+    color: #555;
+  }
+  p {
+    color: #555;
+  }
+  .container {
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .col2 {
+    flex-basis: 50px;
+    min-width: 300px;
+  }
+  .col2 img {
+    max-width: 600px;
+    padding: 50px 0;
+  }
+  /* .col2 h1 {
+  } */
+  .btn {
+    display: inline-block;
+    background-color: #1905237d;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0px;
+    border-radius: 30px;
+  }
+
+  .header {
+    background-image: linear-gradient(
+      to top,
+      #BDC2E8 0%,
+      #BDC2E8 1%,
+      #E6DEE9 100%
+    );
+  }
+
+  .shopping-cart {
+    background-image: linear-gradient(
+      to top,
+      #BDC2E8 0%,
+      #BDC2E8 1%,
+      #E6DEE9 100%
+    )
+    margin-right: 20px;
+    display: inline-block;
+  }
+
