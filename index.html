@@ -1,53 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <script defer src="index.js"></script>
-    <title>Dior.com</title>
-  </head>
-  <body>
-    <div class="header">
-      <div class="container">
-        <div class="navbar">
-          <div class="logo">
-            <img
-              src="https://s3images.coroflot.com/user_files/individual_files/723615_git6bkyk4oyigbj6hrzu8xnqt.jpg"
-              alt="Dior Logo"
-              class="dior-logo"
-            />
-          </div>
-          <nav>
-            <ul>
-              <li><a href="">HOME</a></li>
-              <li><a href="">Products</a></li>
-              <li><a href="">About</a></li>
-              <li><a href="">Contact</a></li>
-              <li><a href="">Account</a></li>
-              <li><a href="">Cart</a></li>
-            </ul>
-          </nav>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dior</title>
+  <link rel = "stylesheet" href="style.css">
+  <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+  <!-- Header-->
+  <header>
+    <!--Nav-->
+    <div class="nav container">
+      <a href="#" class="logo">Dior</a>
+      <!--Cart-Icon-->
+      <i class='bx bx-shopping-bag' id="cart-icon"></i>
+      <!--Cart-->
+      <div class="cart">
+        <h2 class="cart-title">Your Cart</h2>
+        <!--Content-->
+        <div class="cart-content">
+          <div class="cart-box">
+
         </div>
-        <div class="row">
-          <div class="col2">
-            <h1>
-              You Can Have Anything In Life <br />
-              If You Dress For it
-            </h1>
-            <a href="" class="btn">Explore Now &#8594</a>
-          </div>
-          <div class="col2">
-            <img
-              src="https://images.hdqwalls.com/wallpapers/jennifer-lawrence-dior-2017-v7.jpg"
-              alt="Men Dior Sweater"
-            />
-          </div>
+        <!--Total-->
+        <div class="total">
+          <div class="total-title">Total</div>
+          <div class="total-price">$0</div>
         </div>
+        <!--Buy Button-->
+        <button type="button" class="btn-buy">Buy Now</button>
+        <!--Cart Close-->
+        <i class='bx bx-x' id="close-cart"></i>
       </div>
     </div>
-  </body>
+  </header>
+  <!--Shop-->
+  <section class="shop container">
+    <h2 class="section-title">Shop Products</h2>
+    <!--Content-->
+    <div class="shop-content">
+      <!--Box 1-->
+      <div class="product-box">
+        <img src="Assets/dior_shirt1.webp" alt="" class="product-img">
+        <h2 class="product-title"> Dior Oblique Pixel Short-Sleeved Shirt </h2>
+        <span class="price">$1650</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>
+      <!--Box 2-->
+      <div class="product-box">
+        <img src="Assets/dior_shirt2.webp" alt="" class="product-img">
+        <h2 class="product-title"> Dior Oblique Pixel Short-Sleeved Shirt </h2>
+        <span class="price">$1650</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>
+       <!--Box 3-->
+       <div class="product-box">
+        <img src="Assets/dior_shirt3.webp" alt="" class="product-img">
+        <h2 class="product-title"> Dior and Jack Kerouac Short-Sleeved Shirt </h2>
+        <span class="price">$1300</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>
+      <!--Box 4-->
+      <div class="product-box">
+        <img src="Assets/dior_shirt4.webp" alt="" class="product-img">
+        <h2 class="product-title"> Dior and Jack Kerouac Shirt </h2>
+        <span class="price">$1800</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>
+      <!--Box 5-->
+      <div class="product-box">
+        <img src="Assets/dior_shirt5.webp" alt="" class="product-img">
+        <h2 class="product-title"> Dior Shirt </h2>
+        <span class="price">$1500</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>
+      <!--Box 6-->
+      <div class="product-box">
+        <img src="Assets/dior_shirt6.webp" alt="" class="product-img">
+        <h2 class="product-title"> OverShirt</h2>
+        <span class="price">$1750</span>
+        <i class='bx bx-shopping-bag add-cart'></i>
+      </div>                              
+    </div>
+  </section>
+  <!--Link to JS-->
+  <script src="index.js"></script>
+</body>
 </html>
-<!--
--->
